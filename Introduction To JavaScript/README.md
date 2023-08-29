@@ -7,7 +7,7 @@ Lesson 2: [Variables and JavaScript Syntax](https://github.com/karan-cheema/Java
 
 Lesson 3: [Functions](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%203)
 
-Lesson 4: Making Decisions
+Lesson 4: [Making Decisions](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%204)
 
 Lesson 5: Loops
 
