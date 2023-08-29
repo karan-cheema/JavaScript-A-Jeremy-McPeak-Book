@@ -3,7 +3,7 @@
 ## Index
 Lesson 1: [Adding JavaScript to a Web Page](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%201)
 
-Lesson 2: [Variables and JavaScript Syntax](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%20302)
+Lesson 2: [Variables and JavaScript Syntax](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%202)
 
 Lesson 3: [Functions](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%203)
 
