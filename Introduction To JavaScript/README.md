@@ -11,7 +11,7 @@ Lesson 4: [Making Decisions](https://github.com/karan-cheema/JavaScript-A-Jeremy
    - [Exercise 1](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%204/Sample%201)
    - [Exercise 2](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%204/Sample%202)
 
-Lesson 5: Loops
+Lesson 5: [Loops](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%205)
 
 Lesson 6: Scope
 
