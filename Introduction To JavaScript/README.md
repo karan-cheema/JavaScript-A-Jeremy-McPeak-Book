@@ -13,7 +13,7 @@ Lesson 4: [Making Decisions](https://github.com/karan-cheema/JavaScript-A-Jeremy
 
 Lesson 5: [Loops](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%205)
 
-Lesson 6: Scope
+Lesson 6: [Scope](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%206)
 
 Lesson 7: Objects and Built-In Types
 
