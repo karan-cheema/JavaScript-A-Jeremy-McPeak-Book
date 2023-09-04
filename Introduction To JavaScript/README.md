@@ -19,4 +19,4 @@ Lesson 7: Objects and Built-In Types
 
 Lesson 8: Custom Objects
 
-Lesson 9: Prototypes and Inheritance (The Function Object)
+Lesson 9: Prototypes and Inheritance
