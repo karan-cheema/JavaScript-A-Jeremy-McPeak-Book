@@ -15,7 +15,7 @@ Lesson 5: [Loops](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Boo
 
 Lesson 6: [Scope](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%206)
 
-Lesson 7: Objects and Built-In Types
+Lesson 7: [Objects and Built-In Types](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%207)
 
 Lesson 8: Custom Objects
 
