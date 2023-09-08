@@ -17,6 +17,6 @@ Lesson 6: [Scope](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Boo
 
 Lesson 7: [Objects and Built-In Types](https://github.com/karan-cheema/JavaScript-A-Jeremy-McPeak-Book/tree/main/Introduction%20To%20JavaScript/Lesson%207)
 
-Lesson 8: Custom Objects
+Lesson 8: [Custom Objects]
 
-Lesson 9: Prototypes and Inheritance
+Lesson 9: [Prototypes and Inheritance]
